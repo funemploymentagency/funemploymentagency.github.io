@@ -1,5 +1,5 @@
 // Replace this with your live Google Form URL when you create it.
-const GOOGLE_FORM_URL = "https://docs.google.com/forms/d/e/YOUR_FORM_ID/viewform";
+const GOOGLE_FORM_URL = "https://tally.so/r/ODXJpk";
 
 function setApplyLinks() {
   const btn = document.getElementById("applyButton");
